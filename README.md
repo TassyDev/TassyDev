@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TassyLad
+- 👀 I’m interested in programming and technology overall, and also love science, especially chemistry.
+- 🌱 I’m currently learning python, C, and C++, and gaining more knowledge about other languages too.
+- 💞️ I’m looking to collaborate on... not really looking to collaborate as of now but i'll start programming more in the near future.
+- 📫 How to reach me: dm me @tassyxd on both instagram and twitter. For business inquiries, email me at inquiries.tassy@gmail.com or for normal communication, use tassy.contact@gmail.com.
