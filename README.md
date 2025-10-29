@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TassyLad
+- 👋 Hi, I’m @Tassy
 - 👀 I’m interested in programming and technology overall, and also love science, especially chemistry.
 - 🌱 I’m currently learning python, C, C++, and Rust, and gaining more knowledge about other languages too.
 - 💞️ I’m looking to collaborate on... not really looking to collaborate as of now but i'll start programming more in the near future.
